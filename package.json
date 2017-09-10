@@ -1,0 +1,19 @@
+{
+  "name": "webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Simple test...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjgrainger/webhooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjgrainger/webhooks/issues"
+  },
+  "homepage": "https://github.com/jjgrainger/webhooks#readme"
+}
