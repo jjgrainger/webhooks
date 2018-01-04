@@ -6,4 +6,4 @@ script:
 before_script:
   - npm install
 notifications:
-  webhooks: https://ab28ed7f.ngrok.io//hubot/travisci/webhook
+  webhooks: https://2da1c4f1.ngrok.io/hubot/travisci/webhook
